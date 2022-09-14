@@ -1,0 +1,35 @@
+
+/* comment */
+div{
+	color:red;
+	}
+	#block{
+	color:blue;
+	}
+	.first-part {
+	color: aquamarine;
+	}
+	.text {
+	color: brown;
+	}
+	.link {
+	color: blueviolet;
+	}
+	.list {
+	color: orange;
+	}
+	.second-part {
+	color:palevioletred;
+	}
+	.third-part {
+	color: blue;
+	}
+	
+	.text.first-part {
+	color: yellowgreen;
+	}
+	
+.first-part,
+.third-part {
+	color: red;
+}
